@@ -2,7 +2,82 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://logseq.com",
-  "elements": [],
+  "elements": [
+    {
+      "id": "A1t2GfPzJeEulGzNK1gu-",
+      "type": "rectangle",
+      "x": 284.140625,
+      "y": 295.8316650390625,
+      "width": 110.7457275390625,
+      "height": 109.24716186523438,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 270270402,
+      "version": 78,
+      "versionNonce": 1300315870,
+      "isDeleted": false
+    },
+    {
+      "id": "0MiPGHUMS9hDVJd0zKNYh",
+      "type": "arrow",
+      "x": 397.72369384765625,
+      "y": 349.3970031738281,
+      "width": 263.1214599609375,
+      "height": 0.8238677978515625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 895297026,
+      "version": 27,
+      "versionNonce": 1920516802,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          263.1214599609375,
+          0.8238677978515625
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "UUZjzJzvdsEbe9VApMDgi",
+      "type": "rectangle",
+      "x": 658.0504150390625,
+      "y": 297.2982940673828,
+      "width": 122.67041015625,
+      "height": 100.26277160644531,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 697768578,
+      "version": 39,
+      "versionNonce": 386633154,
+      "isDeleted": false
+    }
+  ],
   "appState": {
     "viewBackgroundColor": "#FFF",
     "gridSize": null
